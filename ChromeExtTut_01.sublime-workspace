@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"h",
+				"h4	Tag"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"sele",
+				"selected_choice"
+			],
+			[
+				"sel",
+				"selected_choice"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"try",
+				"try	Try/Except/Finally"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"poll",
+				"poll_id"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"datet",
+				"datetime"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"d",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "<myappdir>/index.html",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "<myappdir>/main.js",
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "<myappdir>/manifest.json",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Snippet: h",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"ht",
+				"Snippet: html"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 335.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Keith/Dropbox/Chrome_Ext_Tut/popup.html",
+		"/Users/Keith/Dropbox/Chrome Ext Tut/manifest.json",
+		"/Users/Keith/Dropbox/Website Design/Portfolio-Audio/index.html",
+		"/Users/Keith/Dropbox/Programming/Microblog/app/templates/style.css",
+		"/Users/Keith/Dropbox/Programming/Microblog/app/templates/index_alt.html",
+		"/Users/Keith/Dropbox/Programming/Microblog/app/templates/css/style.css",
+		"/Users/Keith/Dropbox/Programming/js practice/index.html",
+		"/Users/Keith/Dropbox/Programming/js practice/style.css",
+		"/Users/Keith/Dropbox/Programming/JS Menu template/MyMenu1/MyMenu1/MyMenu1.js",
+		"/Users/klabeau/Dropbox/Programming/Django/django_01/potato/potato.sublime-project",
+		"/Users/digital1/Dropbox/Programming/Django/django_01/potato/templates/base_site.html",
+		"/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/django/db/models/fields/__init__.py",
+		"/Users/digital1/Dropbox/Programming/Django/django_01/potato/potato/settings.py",
+		"/Users/digital1/Dropbox/Programming/hotel_pymts_apr_01.py",
+		"/Users/digital1/Dropbox/iPhone iWidgets/M2_Weather/Backup/style.css",
+		"/Users/digital1/Dropbox/iPhone/m2iwidgetspack_1.3/data/var/mobile/Library/iWidgets/M2_Slideshow/style.css",
+		"/Users/digital1/Dropbox/iPhone/m2iwidgetspack_1.3/data/var/mobile/Library/iWidgets/M2_SOURCE/jquery.js",
+		"/Users/digital1/Dropbox/iPhone/m2iwidgetspack_1.3/data/var/mobile/Library/iWidgets/M2_SOURCE/jRotate.js",
+		"/Users/digital1/Dropbox/iPhone/m2iwidgetspack_1.3/data/var/mobile/Library/iWidgets/M2_SOURCE/READ_ME.txt",
+		"/Users/digital1/Dropbox/iPhone iWidgets/M2_Weather/js/jquery.zweatherfeed.js",
+		"/Users/digital1/Dropbox/iPhone iWidgets/M2_Weather/Backup/Options.plist",
+		"/Users/digital1/Dropbox/iPhone iWidgets/M2_Weather/UltraThin.woff",
+		"/Users/digital1/Dropbox/iPhone iWidgets/style.css",
+		"/Users/digital1/Dropbox/iPhone iWidgets/Widget.html",
+		"/Users/digital1/Desktop/Date_Calendar.py",
+		"/Users/digital1/Dropbox/Website Design/www.keithlabeau.com/public_html/style.css",
+		"/Users/digital1/Dropbox/Website Design/www.keithlabeau.com/public_html/index.html",
+		"/Users/digital1/Dropbox/Programming/Date Calendar.py",
+		"/Users/digital1/Dropbox/Website Design/www.keithlabeau.com/public_html/new_style.css",
+		"/Users/digital1/Dropbox/Website Design/www.keithlabeau.com/public_html/new_index.html",
+		"/Users/digital1/Dropbox/Website Design/www.keithlabeau.com/public_html/jobcontacts.html",
+		"/Users/digital1/Dropbox/Website Design/www.keithlabeau.com/public_html/job_contacts_style.css",
+		"/Users/digital1/Dropbox/Website Design/www.keithlabeau.com/public_html/postinfo.html",
+		"/Users/digital1/Dropbox/Website Design/www.keithlabeau.com/public_html/_vti_inf.html",
+		"/Users/digital1/Dropbox/Website Design/www.keithlabeau.com/public_html/webdevvswebdes.html",
+		"/Users/digital1/Dropbox/Website Design/keithlabeau/style.css",
+		"/Users/digital1/Dropbox/Website Design/keithlabeau/index.html",
+		"/Users/digital1/Dropbox/Website Design/JS practice/batman.js",
+		"/Users/digital1/Dropbox/Website Design/JS practice/index.html",
+		"/Users/digital1/Dropbox/Website Design/JS practice/js_01.js",
+		"/Applications/XAMPP/xamppfiles/xampp",
+		"/Users/digital1/Documents/Website Design/codeschool/JSRoadTrip Free Course/trains.js",
+		"/Users/digital1/Documents/Website Design/jQuery/jquery-1.10.2.min.map.map",
+		"/Users/digital1/Documents/Website Design/JS practice/rps.html",
+		"/Users/digital1/Documents/Website Design/JS practice/rps.js",
+		"/Users/digital1/Documents/Website Design/codeschool/JSRoadTrip Free Course/intro.js",
+		"/Users/digital1/Documents/Website Design/keithlabeau/index.html",
+		"/Users/digital1/Documents/Website Design/keithlabeau/FTPSync.sublime-settings",
+		"/Users/digital1/Documents/Website Design/keithlabeau/style.css",
+		"/Users/digital1/Library/Application Support/Sublime Text 2/Packages/User/FTPSync.sublime-settings",
+		"/Users/digital1/Library/Application Support/Sublime Text 2/Packages/FTPSync/FTPSync.sublime-settings",
+		"/Users/digital1/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"h1",
+			"latest_poll_list",
+			"models",
+			"Model",
+			" class Model",
+			" classModel",
+			"Model",
+			"char",
+			"width",
+			"roboto",
+			">\n",
+			"prompt",
+			"alert"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "<myappdir>/index.html",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "<myappdir>/main.js",
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "<myappdir>/manifest.json",
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
