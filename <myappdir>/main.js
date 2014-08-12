@@ -8,10 +8,5 @@ chrome.app.runtime.onLaunched.addListener(function() {
     width: 300,
     height: 300
   });
-  chrome.app.window.create('index.html', {
-    width: 400,
-    height: 250,
-    resizable: false
-  });
 });
 

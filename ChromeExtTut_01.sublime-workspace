@@ -152,26 +152,43 @@
 	"buffers":
 	[
 		{
+			"file": "<myappdir>/manifest.json",
+			"settings":
+			{
+				"buffer_size": 285,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "<myappdir>/index.html",
 			"settings":
 			{
-				"buffer_size": 186,
+				"buffer_size": 356,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "<myappdir>/todo.css",
+			"settings":
+			{
+				"buffer_size": 409,
+				"line_ending": "Unix",
+				"name": "body {"
 			}
 		},
 		{
 			"file": "<myappdir>/main.js",
 			"settings":
 			{
-				"buffer_size": 369,
+				"buffer_size": 266,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "<myappdir>/manifest.json",
+			"file": "<myappdir>/controller.js",
 			"settings":
 			{
-				"buffer_size": 197,
+				"buffer_size": 57410,
 				"line_ending": "Unix"
 			}
 		}
@@ -236,6 +253,8 @@
 	},
 	"file_history":
 	[
+		"/Users/Keith/Dropbox/Programming/chrome-app-codelab/lab9_multipleviews/javascript/manifest.json",
+		"/Users/Keith/Dropbox/Programming/chrome-app-codelab/<myappdir>/angular.min.js",
 		"/Users/Keith/Dropbox/Programming/chrome-app-codelab/.git/config",
 		"/Users/Keith/Dropbox/Programming/chrome-app-codelab/<myappdir>/manifest.json",
 		"/Users/Keith/Dropbox/Chrome_Ext_Tut/popup.html",
@@ -339,23 +358,51 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "<myappdir>/index.html",
+					"file": "<myappdir>/manifest.json",
 					"settings":
 					{
-						"buffer_size": 186,
+						"buffer_size": 285,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								166,
-								137
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "<myappdir>/index.html",
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
 							]
 						],
 						"settings":
@@ -369,19 +416,46 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "<myappdir>/main.js",
+					"buffer": 2,
+					"file": "<myappdir>/todo.css",
 					"settings":
 					{
-						"buffer_size": 369,
+						"buffer_size": 409,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								369,
-								369
+								408,
+								409
+							]
+						],
+						"settings":
+						{
+							"auto_name": "body {",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "<myappdir>/main.js",
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								260,
+								260
 							]
 						],
 						"settings":
@@ -395,11 +469,11 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "<myappdir>/manifest.json",
+					"buffer": 4,
+					"file": "<myappdir>/controller.js",
 					"settings":
 					{
-						"buffer_size": 197,
+						"buffer_size": 57410,
 						"regions":
 						{
 						},
@@ -412,7 +486,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -485,10 +559,10 @@
 		],
 		"width": 380.0
 	},
-	"show_minimap": false,
+	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 197.0,
 	"status_bar_visible": true
 }

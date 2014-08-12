@@ -8,6 +8,7 @@
       "scripts": ["main.js"]
     }
   },
-  "minimum_chrome_version": "23"
-
+  "minimum_chrome_version": "23",
+  "permissions": ["storage", "webview", "<all_urls>"],
+  "icons": { "128": "icon.png" }
 }
