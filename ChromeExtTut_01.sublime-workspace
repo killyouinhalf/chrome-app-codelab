@@ -155,7 +155,7 @@
 			"file": "<myappdir>/index.html",
 			"settings":
 			{
-				"buffer_size": 145,
+				"buffer_size": 186,
 				"line_ending": "Unix"
 			}
 		},
@@ -236,6 +236,8 @@
 	},
 	"file_history":
 	[
+		"/Users/Keith/Dropbox/Programming/chrome-app-codelab/.git/config",
+		"/Users/Keith/Dropbox/Programming/chrome-app-codelab/<myappdir>/manifest.json",
 		"/Users/Keith/Dropbox/Chrome_Ext_Tut/popup.html",
 		"/Users/Keith/Dropbox/Chrome Ext Tut/manifest.json",
 		"/Users/Keith/Dropbox/Website Design/Portfolio-Audio/index.html",
@@ -337,7 +339,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -345,15 +347,15 @@
 					"file": "<myappdir>/index.html",
 					"settings":
 					{
-						"buffer_size": 145,
+						"buffer_size": 186,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								166,
+								137
 							]
 						],
 						"settings":
@@ -378,8 +380,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								369,
+								369
 							]
 						],
 						"settings":
@@ -429,7 +431,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -457,6 +459,10 @@
 	"output.exec":
 	{
 		"height": 183.0
+	},
+	"output.git":
+	{
+		"height": 100.0
 	},
 	"replace":
 	{
